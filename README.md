@@ -9,9 +9,9 @@ The script parses the data in JSON format to CSV files using the pandas library
 
 * Execute the yelp_parser.py 
 
-Set the location of the input file and the location where the parsed data sets have to be written
+  Set the location of the input file and the location where the parsed data sets have to be written
 
-Output: 3 data sets namely, business.csv, review.csv and user.csv
+  Output: 3 data sets namely, business.csv, review.csv and user.csv
  
 
 User location and Business location
