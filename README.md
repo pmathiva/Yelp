@@ -52,6 +52,11 @@ Different classifiers are used and their performances are compared
 
 * Other features – Nouns, average stars
 
+* Optimization of the parameters of different classifiers is done using Grid search
+  - Multinomial – alpha 
+  - Logistic - C 
+  - Random forest – estimators  and  criterion 
+
 * Execute the yelp_classifier.py
 
   Set the location of the input file: model_data.csv 
